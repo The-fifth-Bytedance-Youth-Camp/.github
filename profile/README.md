@@ -49,6 +49,6 @@
 ## 代码规范 && 计划书
 
 1. [团队代码规范](../doc/CodeStyle.md)
-2. [第一阶段（页面样式）](../doc/FirstStage(PageStyle).md)
-3. [第二阶段计划（动态数据）](../doc/SecondStage(Data).md)
-4. [项目测试报告](../doc/ProjectTestReport.md)
+2. [第一阶段（页面样式）](https://github.com/The-fifth-Bytedance-Youth-Camp/.github/blob/master/doc/FirstStage(PageStyle).md)
+3. [第二阶段计划（动态数据）](https://github.com/The-fifth-Bytedance-Youth-Camp/.github/blob/master/doc/SecondStage(Data).md)
+4. [项目测试报告](https://github.com/The-fifth-Bytedance-Youth-Camp/.github/blob/master/doc/ProjectTestReport.md)
