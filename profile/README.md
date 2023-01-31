@@ -44,7 +44,7 @@
 因为后端根据需要拆分了项目，数据库也进行了分库。
 每个项目都有对应的数据库，互不干涉。
 
-![](../img/project_structure.jpg)
+![](https://img1.imgtp.com/2023/01/31/qynKx9ha.jpg)
 
 ## 代码规范 && 计划书
 
